@@ -7,3 +7,5 @@ The Constructor of No Arguments
 Breaking the Public Key
 
 Infinite Resistance
+
+Syntactic Sugar
