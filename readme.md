@@ -9,3 +9,7 @@ Breaking the Public Key
 Infinite Resistance
 
 Syntactic Sugar
+
+Rage Refactor
+
+Silent Telemetry
