@@ -14,4 +14,6 @@ Rage Refactor
 
 Silent Telemetry
 
+Dopant Trojan
+
 Temporal Coupling
