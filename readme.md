@@ -17,3 +17,7 @@ Silent Telemetry
 Dopant Trojan
 
 Temporal Coupling
+
+Case for Hire
+
+Grandma's Toboggan
